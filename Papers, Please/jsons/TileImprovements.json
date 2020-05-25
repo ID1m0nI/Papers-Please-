@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Border Post",
+    "turnsToBuild": 4,
+    "techRequired": "Military Science",
+    "terrainsCanBeBuiltOn": [
+      "Grassland",
+      "Desert",
+      "Tundra",
+      "Plains"
+    ],
+    "uniques": [
+      "Gives a defensive bonus of 75%"
+    ],
+    "production": 1
+  }
+]
+

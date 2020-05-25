@@ -1,0 +1,69 @@
+
+game.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+ImprovementIcons/Border Post
+  rotate: false
+  xy: 2, 37
+  size: 900, 900
+  orig: 900, 900
+  offset: 0, 0
+  index: -1
+NationIcons/Antegria
+  rotate: false
+  xy: 904, 328
+  size: 310, 257
+  orig: 310, 257
+  offset: 0, 0
+  index: -1
+NationIcons/Arstotzka
+  rotate: false
+  xy: 904, 587
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+NationIcons/Impor
+  rotate: false
+  xy: 1256, 653
+  size: 310, 284
+  orig: 310, 284
+  offset: 0, 0
+  index: -1
+NationIcons/Kolechia
+  rotate: false
+  xy: 904, 74
+  size: 310, 252
+  orig: 310, 252
+  offset: 0, 0
+  index: -1
+NationIcons/Obristan
+  rotate: false
+  xy: 1568, 483
+  size: 298, 226
+  orig: 298, 226
+  offset: 0, 0
+  index: -1
+NationIcons/Republia
+  rotate: false
+  xy: 1568, 711
+  size: 310, 226
+  orig: 310, 226
+  offset: 0, 0
+  index: -1
+NationIcons/United Federation
+  rotate: false
+  xy: 1256, 366
+  size: 310, 285
+  orig: 310, 285
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Border Post
+  rotate: false
+  xy: 2, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
